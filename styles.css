@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+p {
+    margin: 0;
+    text-align: center;
+}
+
+.buy-button {
+    background-color: rgb(255, 98, 91);
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.card {
+    width: 200px;
+    padding: 20px;
+    background-color: rgb(240, 240, 241);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img {
+    width: 100%;
+}
